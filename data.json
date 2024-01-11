@@ -1,0 +1,40 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Burger A",
+        "price": 499,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "id": "2",
+        "name": "Black Burger",
+        "price": 599,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "id": "3",
+        "name": "Fries with Ketchup",
+        "price": 699,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "id": "4",
+        "name": "Bacon & Egg",
+        "price": 799,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "id": "5",
+        "name": "Mushroom",
+        "price": 799,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "id": "6",
+        "name": "Chicken Sandwich",
+        "price": 799,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      }
+    ]
+  }
