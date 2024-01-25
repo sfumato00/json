@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Burger A",
-      "image": "https://images.unsplash.com/photo-1596662951482-0c4ba74a6df6?&w=900&h=900",
+      "image": "https://images.unsplash.com/photo-1596662951482-0c4ba74a6df6?&w=900&h=900&fit=crop",
       "href": "burger",
       "price": 499
     },
