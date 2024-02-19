@@ -41,6 +41,13 @@
       "image": "photo-1606755962773-d324e0a13086",
       "slug": "chicken-sandwich",
       "price": 799
+    },
+    {
+      "id": "7",
+      "name": "Pink Burger",
+      "image": "photo-1626483641739-96422935eb93",
+      "slug": "pink-sandwich",
+      "price": 899
     }
   ]
 }
